@@ -38,7 +38,7 @@ The main objectives are:
 
 ## Results
 ### **Cumulative Returns**
-![Cumulative Returns](plots/ETF_vs_Replicated_ETF.png)
+![Cumulative Returns](plots/ETF vs Replicated ETF.png)
 
 ### **Event Plots**
 - **Event 1**  
@@ -47,7 +47,7 @@ The main objectives are:
 ![Event2](plots/Event2_plot.png)
 
 ### **Top 10 Holdings vs ETF vs Replicated ETF**
-![Top10 Holdings](plots/Top_10_Holdings_vs_ETF.png)
+![Top10 Holdings](plots/Top 10 Holdings vs ETF vs Replicated ETF.png)
 
 ## Skills & Packages Used
 - **R Packages**: `rvest`, `quantmod`, `PerformanceAnalytics`, `timetk`, `zoo`, `tidyverse`  
@@ -57,4 +57,4 @@ The main objectives are:
   - Portfolio replication and performance analysis  
   - Event-window analysis and visualization  
 
-## Repository Structure
+
